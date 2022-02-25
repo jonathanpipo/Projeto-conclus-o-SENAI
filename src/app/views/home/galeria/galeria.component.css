@@ -1,0 +1,93 @@
+#bg-galeria-paginicial {
+  background-color: #4775f5;
+}
+
+#h2-games-paginicial {
+  font-size: 4rem;
+  font-weight: 700;
+  font-family: "Ubuntu";
+  letter-spacing: 0.1rem;
+  word-spacing: 0.5rem;
+  color: #a87d0f;
+
+  color: transparent;
+  background: #575757;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 3px 1px rgba(255, 255, 255, 0.76);
+}
+
+/*    <div class="row">
+      <div class="col-3">
+        <div class="card m-auto" style="width: 15rem">
+          <img
+            class="card-img-top"
+            src="assets/img/game1.jpg"
+            alt="Imagem de capa do card"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Hades</h5>
+            <p class="card-text">
+              Hades é um jogo de ação hack and slash frenético com visão
+              isométrica desenvolvido pela Supergiant Games.
+            </p>
+            <a href="#" class="btn btn-primary">COMPRAR</a>
+          </div>
+        </div>
+      </div>
+      <!------------------------->
+      <div class="col-3">
+        <div class="card m-auto" style="width: 15rem">
+          <img
+            class="card-img-top"
+            src="assets/img/game2.jpg"
+            alt="Imagem de capa do card"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Death Stranding</h5>
+            <p class="card-text">
+              Cercado pela morte, Sam Bridges deverá enfrentar um mundo
+              completamente transformado pelo Death Stranding.
+            </p>
+            <a href="#" class="btn btn-primary">COMPRAR</a>
+          </div>
+        </div>
+      </div>
+      <!------------------------->
+      <div class="col-3">
+        <div class="card m-auto" style="width: 15rem">
+          <img
+            class="card-img-top"
+            src="assets/img/game3.jpg"
+            alt="Imagem de capa do card"
+          />
+          <div class="card-body">
+            <h5 class="card-title">Farcry 6</h5>
+            <p class="card-text">
+              O jogo narra a vida um ex-militar que, por conta do regime
+              ditatorial em Yara, quer fugir para os Estados Unidos.
+            </p>
+            <a href="#" class="btn btn-primary">COMPRAR</a>
+          </div>
+        </div>
+        <!------------------------->
+        <div class="col-3">
+          <div class="card m-auto" style="width: 15rem">
+            <img
+              class="card-img-top"
+              src="assets/img/game1.jpg"
+              alt="Imagem de capa do card"
+            />
+            <div class="card-body">
+              <h5 class="card-title">Hades</h5>
+              <p class="card-text">
+                Hades é um jogo de ação hack and slash frenético com visão
+                isométrica desenvolvido pela Supergiant Games.
+              </p>
+              <a href="#" class="btn btn-primary">COMPRAR</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>*/

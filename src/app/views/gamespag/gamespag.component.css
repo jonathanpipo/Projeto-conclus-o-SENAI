@@ -1,0 +1,209 @@
+#divinfo-h2 {
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: "Ubuntu";
+  letter-spacing: 0.1rem;
+  word-spacing: 0.5rem;
+  color: #a87d0f;
+
+  color: transparent;
+  background: #575757;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 3px 1px rgba(255, 255, 255, 0.76);
+}
+
+#p-divinfo {
+  font-size: 1.5rem;
+  font-weight: 300;
+  font-family: "Ubuntu";
+  letter-spacing: 0.1rem;
+  word-spacing: 0.5rem;
+  color: #0d375c;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #0d375c;
+}
+
+#divtexto {
+  background-color: #0d375c;
+}
+
+#h3-divtexto {
+  font-size: 4rem;
+  font-weight: 700;
+  font-family: "Ubuntu";
+  letter-spacing: 0.1rem;
+  word-spacing: 0.5rem;
+  color: #a87d0f;
+
+  color: transparent;
+  background: #575757;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 3px 1px rgba(255, 255, 255, 0.76);
+}
+
+#box-shadow-card {
+  border: solid 3px #f5c447;
+  -webkit-box-shadow: -10px 20px 3px 10px rgba(0, 0, 0, 0.5);
+  box-shadow: -10px 20px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* SISTEMA DE GRID ANTIGO DA GAMESPAG.HTML*/
+/*
+  <div class="row">
+    <div class="col-sm-4 mb-5">
+      <div id="box-shadow-card" class="card m-auto" style="width: 16rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/100x100/?laptop"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Notebook Nitro 5</h5>
+          <p class="card-text">
+            Intel Core i5 7785 16GB 1TB HD 512GB SSD GTX 1650 15.6' Full HD
+            Endless .
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4 mb-5">
+      <div id="box-shadow-card" class="card m-auto" style="width: 16rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/100x100/?laptop"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Notebook Predator 300</h5>
+          <p class="card-text">
+            Intel Core i7 Windows 10 Home 16GB 512GB SSD RTX 2060 15,6'.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4 mb-5">
+      <div id="box-shadow-card" class="card m-auto" style="width: 16rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/100x100/?laptop"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Notebook Aspire</h5>
+          <p class="card-text">
+            Ryzen 7 Windows 10 Home 8GB 512GB SSD GTX1650 TI 15,6'.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-4 mb-5">
+      <div id="box-shadow-card" class="card m-auto" style="width: 16rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/100x100/?laptop"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Notebook Nitro 5</h5>
+          <p class="card-text">
+            Intel Core i5 7785 16GB 1TB HD 512GB SSD GTX 1650 15.6' Full HD
+            Endless .
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4 mb-5">
+      <div id="box-shadow-card" class="card m-auto" style="width: 16rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/100x100/?laptop"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Notebook Predator 300</h5>
+          <p class="card-text">
+            Intel Core i7 Windows 10 Home 16GB 512GB SSD RTX 2060 15,6'.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4 mb-5">
+      <div id="box-shadow-card" class="card m-auto" style="width: 16rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/100x100/?laptop"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Notebook Aspire</h5>
+          <p class="card-text">
+            Ryzen 7 Windows 10 Home 8GB 512GB SSD GTX1650 TI 15,6'.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-4 mb-5">
+      <div id="box-shadow-card" class="card m-auto" style="width: 16rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/100x100/?laptop"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Notebook Nitro 5</h5>
+          <p class="card-text">
+            Intel Core i5 7785 16GB 1TB HD 512GB SSD GTX 1650 15.6' Full HD
+            Endless .
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4 mb-5">
+      <div id="box-shadow-card" class="card m-auto" style="width: 16rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/100x100/?laptop"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Notebook Predator 300</h5>
+          <p class="card-text">
+            Intel Core i7 Windows 10 Home 16GB 512GB SSD RTX 2060 15,6'.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-4 mb-5">
+      <div id="box-shadow-card" class="card m-auto" style="width: 16rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/100x100/?laptop"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Notebook Aspire</h5>
+          <p class="card-text">
+            Ryzen 7 Windows 10 Home 8GB 512GB SSD GTX1650 TI 15,6'.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+  </div>
+*/

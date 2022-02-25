@@ -1,0 +1,181 @@
+#div-destaques {
+  background-color: #0d375c;
+}
+
+#h3-container {
+  font-size: 4rem;
+  font-weight: 700;
+  font-family: "Ubuntu";
+  letter-spacing: 0.1rem;
+  word-spacing: 0.5rem;
+  color: #a87d0f;
+
+  color: transparent;
+  background: #575757;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  text-shadow: 0px 3px 1px rgba(255, 255, 255, 0.76);
+}
+
+/*
+  <div class="row">
+    <div class="col mb-5">
+      <div class="card m-auto" style="width: 15rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/50x50/?videogame"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Game1</h5>
+          <p class="card-text">
+            Um exemplo de texto rápido para construir o título do card e fazer
+            preencher o conteúdo do card.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-5 m-auto">
+      <div class="card m-auto" style="width: 15rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/50x50/?videogame"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Game2</h5>
+          <p class="card-text">
+            Um exemplo de texto rápido para construir o título do card e fazer
+            preencher o conteúdo do card.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-5 m-auto">
+      <div class="card m-auto" style="width: 15rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/50x50/?videogame"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Game3</h5>
+          <p class="card-text">
+            Um exemplo de texto rápido para construir o título do card e fazer
+            preencher o conteúdo do card.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col mb-5 m-auto">
+      <div class="card m-auto" style="width: 15rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/50x50/?videogame"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Game4</h5>
+          <p class="card-text">
+            Um exemplo de texto rápido para construir o título do card e fazer
+            preencher o conteúdo do card.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-5 m-auto">
+      <div class="card m-auto" style="width: 15rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/50x50/?videogame"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Game5</h5>
+          <p class="card-text">
+            Um exemplo de texto rápido para construir o título do card e fazer
+            preencher o conteúdo do card.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-5 m-auto">
+      <div class="card m-auto" style="width: 15rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/50x50/?videogame"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Game6</h5>
+          <p class="card-text">
+            Um exemplo de texto rápido para construir o título do card e fazer
+            preencher o conteúdo do card.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col mb-5 m-auto">
+      <div class="card m-auto" style="width: 15rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/50x50/?videogame"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Game7</h5>
+          <p class="card-text">
+            Um exemplo de texto rápido para construir o título do card e fazer
+            preencher o conteúdo do card.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-5 m-auto">
+      <div class="card m-auto" style="width: 15rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/50x50/?videogame"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Game8</h5>
+          <p class="card-text">
+            Um exemplo de texto rápido para construir o título do card e fazer
+            preencher o conteúdo do card.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+    <div class="col mb-5 m-auto">
+      <div class="card m-auto" style="width: 15rem">
+        <img
+          class="card-img-top"
+          src="https://source.unsplash.com/50x50/?videogame"
+          alt="Imagem de capa do card"
+        />
+        <div class="card-body">
+          <h5 class="card-title">Game9</h5>
+          <p class="card-text">
+            Um exemplo de texto rápido para construir o título do card e fazer
+            preencher o conteúdo do card.
+          </p>
+          <a href="#" class="btn btn-primary">Visitar</a>
+        </div>
+      </div>
+    </div>
+  </div>
+*/
